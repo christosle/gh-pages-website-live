@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /css/
+Disallow: /dist/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /webpack-images/
+Disallow: /js/
+Disallow: /webfonts/
